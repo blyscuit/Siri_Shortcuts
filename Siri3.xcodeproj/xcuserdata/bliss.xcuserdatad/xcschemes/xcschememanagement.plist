@@ -9,6 +9,44 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>SiriIntent.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>SiriIntentUI.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>6875ABFD23A340D400E040F6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6875AC1323A340D600E040F6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6875AC1E23A340D600E040F6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6875AC3423A340EC00E040F6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6875AC3D23A340EC00E040F6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>
